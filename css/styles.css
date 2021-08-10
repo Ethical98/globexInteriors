@@ -65,6 +65,7 @@
 
 .contact-us-button {
   transform: rotateZ(270deg);
+  z-index: 2;
 }
 *,
 *::before,
